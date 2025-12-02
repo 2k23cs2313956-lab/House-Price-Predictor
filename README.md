@@ -22,5 +22,6 @@ To run the project in your system, type command in your command prompt or termin
 
 python app.py
 
+<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/6597639a-5a3b-4796-9efd-c304dfb5d128" />
 
 
